@@ -6,14 +6,6 @@
     android:orientation="vertical"
     android:layout_height="match_parent"
     tools:context=".ResultActivity">
-    <com.google.android.material.appbar.MaterialToolbar
-        android:id="@+id/toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
-        app:titleTextColor="@android:color/white"
-        app:title="User Enquiry App"/>
-
 
         <TextView
             android:layout_width="wrap_content"

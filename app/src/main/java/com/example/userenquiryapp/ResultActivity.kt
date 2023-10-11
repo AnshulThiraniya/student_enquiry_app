@@ -20,6 +20,7 @@ class ResultActivity : AppCompatActivity() {
                        "Phone:-   +91${userData.mobileNumber}\n"+
                        "Email:-     ${userData.emailId}\n"+
                        "Gender:-  ${userData.gender}\n"+
+                       "Dob:-        ${userData.dateOfBirth}\n"+
                       "Skills:-     ${userData.selectedLanguages}"
 
     }
